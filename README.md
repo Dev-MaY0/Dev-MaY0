@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MaY0&layout=compact&theme=dark)
 ### my skill
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,py,bash,cs,discord,bots,docker,powershell,vscode,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?,js,html,css,py,bash,cs,discord,bots,docker,powershell,vscode,git,github,githubactions)](https://skillicons.dev)
