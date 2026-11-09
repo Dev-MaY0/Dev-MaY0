@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm MaYo.
 
-Developer & Community Owner from Japan 🇯🇵
+Developer & Community Owner from Japan.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Minecraft Bedrock tools
